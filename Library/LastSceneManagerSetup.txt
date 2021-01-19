@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/COMP256_001_Jan19_DS.unity
+- path: Assets/Classwork_Jan19_DS/COMP256_001_Jan19_DS.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
