@@ -224,6 +224,7 @@ GameObject:
   m_Component:
   - component: {fileID: 18956380}
   - component: {fileID: 18956381}
+  - component: {fileID: 18956382}
   m_Layer: 0
   m_Name: RightTriggerPressed
   m_TagString: Untagged
@@ -274,6 +275,35 @@ MonoBehaviour:
   positiveBounds:
     minimum: 0.75
     maximum: 1
+--- !u!114 &18956382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 18956379}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd299fedf620074b8e4ce0978a7f425, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ActivationStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  defaultValue: 0
+  sources: []
+  Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  ValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  ValueUnchanged:
+    m_PersistentCalls:
+      m_Calls: []
+  Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &220971234
 GameObject:
   m_ObjectHideFlags: 0
