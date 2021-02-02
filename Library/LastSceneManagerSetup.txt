@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Classworks/Classwork_Feb02_DS/Classwork_Feb02_DS_2.unity
+- path: Assets/Classworks/Classwork_Feb02_DS/Classwork_Feb02_DS_(Interactor_Interactables).unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
